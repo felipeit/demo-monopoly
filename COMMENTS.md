@@ -1,5 +1,5 @@
 ````markdown
-# 🎲 Game Simulation API
+## 🎲 Game Simulation API
 
 Este projeto é uma API construída com **FastAPI** para simular partidas de um jogo baseado em diferentes estratégias de jogadores.  
 
@@ -87,5 +87,3 @@ src/
 
 * Python 3.10 ou superior
 * Poetry instalado
-
-```
