@@ -18,7 +18,7 @@ Este projeto é uma API construída com **FastAPI** para simular partidas de um 
 ### 1. Clonar o repositório
 ```bash
 git clone https://github.com/seu-usuario/demo-monopoly.git
-cd seu-repo
+cd demo-monopoly
 ````
 
 ### 2. Criar o ambiente com Poetry
