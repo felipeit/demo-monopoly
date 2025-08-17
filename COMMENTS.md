@@ -43,7 +43,7 @@ Abra o navegador em:
 
 ## 📌 Endpoints principais
 
-### `POST /start-game`
+### `POST /jogo/simular`
 
 Inicia uma nova simulação de jogo.
 
